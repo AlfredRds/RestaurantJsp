@@ -12,5 +12,8 @@
         <jsp:include page='navbar.jsp'>
             <jsp:param name="articleId" value=""/>
         </jsp:include>
-    </body>
+        <jsp:include page='footer.jsp'>
+            <jsp:param name="articleId" value=""/>
+        </jsp:include>
+</body>
 </html>
