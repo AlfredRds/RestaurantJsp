@@ -45,7 +45,7 @@
                         <a class="nav-link" href="#">Sucursales</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contactanos</a>
+                        <a class="nav-link" href="contact.htm">Contactanos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="hiring.htm">Unete al equipo</a>
