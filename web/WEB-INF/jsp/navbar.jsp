@@ -25,7 +25,7 @@
                 integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
         <nav class="navbar navbar-expand-lg navbar-dark bg-red">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.htm">
                 <img class="logo" src="<c:url value="/resources/img/logo.png"/>" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -42,7 +42,7 @@
                         <a class="nav-link" href="#">Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Sucursales</a>
+                        <a class="nav-link" href="store.htm">Sucursales</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.htm">Contactanos</a>
