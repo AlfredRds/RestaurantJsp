@@ -9,6 +9,11 @@
     </head>
 
     <body>
-        
-    </body>
+        <jsp:include page='navbar.jsp'>
+            <jsp:param name="articleId" value=""/>
+        </jsp:include>
+        <jsp:include page='footer.jsp'>
+            <jsp:param name="articleId" value=""/>
+        </jsp:include>
+</body>
 </html>
