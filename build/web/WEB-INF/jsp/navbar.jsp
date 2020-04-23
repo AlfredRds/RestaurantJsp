@@ -36,19 +36,19 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.htm">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./html/store.html">Sucursales</a>
+                        <a class="nav-link" href="#">Sucursales</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./html/contact.html">Contactanos</a>
+                        <a class="nav-link" href="#">Contactanos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./html/hiring.html">Unete al equipo</a>
+                        <a class="nav-link" href="hiring.htm">Unete al equipo</a>
                     </li>
                 </ul>
             </div>
