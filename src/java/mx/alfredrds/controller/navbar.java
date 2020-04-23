@@ -29,4 +29,9 @@ public class navbar {
     public String contact(){
         return "contact";
     }
+    
+    @RequestMapping(value ="/store.htm", method = RequestMethod.GET)
+    public String store(){
+        return "store";
+    }
 }

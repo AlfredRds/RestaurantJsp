@@ -19,6 +19,7 @@
     <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
     <mvc:view-controller path="/hiring.htm" view-name="hiring" />
     <mvc:view-controller path="/contact.htm" view-name="contact" />
+    <mvc:view-controller path="/store.htm" view-name="store" />
     
     <bean class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping"/>
 

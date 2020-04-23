@@ -32,8 +32,9 @@
                             <h5 class="text-uppercase font-weight-bold">Información de contacto</h5>
                         </div>
                         <div class="p-2">
-                            <p class="text-right">Boulevard Plan de Guadalupe, Loma Linda, <br>
-                               25903 Ramos Arizpe, Coahuila de Zaragoza, México</p>
+                            <p class="text-right">
+                            Tel: 844 488 4893
+                            </p>
                         </div>
                     </div>
                 </div>

@@ -11,6 +11,14 @@
     color: #e6e6e6
 }
 
+.redFont{
+    color: #dc3545
+}
+
+.grayFont{
+    color: #666666
+}
+
 .footerCustom{
     position: absolute;
     bottom: 0;
@@ -41,4 +49,18 @@
 .borderWhite{
     border: #e6e6e6;
     border-style: solid;
+}
+
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
