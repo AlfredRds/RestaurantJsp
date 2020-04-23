@@ -34,4 +34,9 @@ public class navbar {
     public String store(){
         return "store";
     }
+    
+    @RequestMapping(value ="/login.htm", method = RequestMethod.GET)
+    public String login(){
+        return "login";
+    }
 }

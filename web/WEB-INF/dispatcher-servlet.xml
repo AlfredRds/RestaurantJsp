@@ -20,6 +20,7 @@
     <mvc:view-controller path="/hiring.htm" view-name="hiring" />
     <mvc:view-controller path="/contact.htm" view-name="contact" />
     <mvc:view-controller path="/store.htm" view-name="store" />
+    <mvc:view-controller path="/login.htm" view-name="login" />
     
     <bean class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping"/>
 
