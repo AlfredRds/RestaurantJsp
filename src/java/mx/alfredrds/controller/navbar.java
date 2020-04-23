@@ -22,15 +22,11 @@ public class navbar {
  
     @RequestMapping(value ="/hiring.htm", method = RequestMethod.GET)
     public String hiring(){
-//        String pageKey = "";
-//        switch(pagina){
-//            case 0:
-//                pageKey = "hiring";
-//                break;
-//            default: 
-//                
-//                break;
-//        }
         return "hiring";
+    }
+    
+    @RequestMapping(value ="/contact.htm", method = RequestMethod.GET)
+    public String contact(){
+        return "contact";
     }
 }
