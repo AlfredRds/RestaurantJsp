@@ -17,7 +17,6 @@ before_script:
   - unzip -q netbeans.zip
     #- mvn -q dependency:get -Dartifact=junit:junit:4.8.2 -DrepoUrl=http://repo1.maven.org/maven2/
   # To reduce amout of log
-  - cd maven-wrapper/ && mvn -q install && cd ..
 
 script:
   - ant -Dnbplatform.nb82.netbeans.dest.dir=$PWD/netbeans -Dnbplatform.nb82.harness.dir=$PWD/netbeans/harness -Dfork=true test
