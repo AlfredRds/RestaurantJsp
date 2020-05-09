@@ -11,3 +11,19 @@ Se detecto que es complicado para los restaurantes que apenas acaban de empezar 
 ## Solución 
 
 Es principalmente una solución completa para poder gestionar una página web de comidas, se busca que se pueda cambiar desde la vista para que existan diferentes representaciones, pero teniendo de por medio un back que permita gestionar tanto nuevas tiendas, menú y manejo se solicitudes de contacto.
+
+## Enlaces a los contenidos dentro de la Wiki
+
+[Requerimientos](https://github.com/AlfredRds/RestaurantJsp/wiki/Requerimintos)
+
+[Entorno de desarollo](https://github.com/AlfredRds/RestaurantJsp/wiki/Entorno-de-desarollo)
+
+[Configuración del sistema](https://github.com/AlfredRds/RestaurantJsp/wiki/Configuraci%C3%B3n-del-sistema)
+
+[Prueba de entorno](https://github.com/AlfredRds/RestaurantJsp/wiki/Prueba-De-validaci%C3%B3n-de-instalaci%C3%B3n-de-producto)
+
+[Compilado Producción](https://github.com/AlfredRds/RestaurantJsp/wiki/Como-generar-compilado)
+
+[Guía de contribución ](https://github.com/AlfredRds/RestaurantJsp/wiki/Gu%C3%ADa-de-contribuci%C3%B3n)
+
+[Roadmap](https://github.com/AlfredRds/RestaurantJsp/wiki/RoadMap)
